@@ -1,2 +1,4 @@
 # demo
-My first repo
+My first repo\n
+Author alexncodemore
+
